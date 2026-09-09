@@ -1,0 +1,7 @@
+﻿technical_route,direct_tibetan_evaluation_0_2,reporting_completeness_0_2,cross_study_convergence_0_2,total,evidence_tier,interpretation
+Autoregressive end-to-end,2,1,2,5,Higher tier (within retained corpus),Multiple direct studies; data and listening protocols vary across studies
+FastSpeech2 / duration-based,2,1,1,4,Intermediate tier,Direct cases and alignment analyses are represented; matched protocols are needed for cross-study comparison
+VITS / joint acoustic-waveform,2,1,1,4,Intermediate tier,Recent Tibetan cases; a unified benchmark is not represented in the retained evidence
+Statistical-parametric / HMM,2,1,2,5,Higher tier (within retained corpus),Recurring historical evidence; reported naturalness differs from newer neural routes
+Diffusion / flow matching / codec-LM,0,2,1,3,Intermediate tier,General-method evidence is substantial; no direct Tibetan evaluation is represented in the retained evidence
+Representation disentanglement / expressive control,0,2,1,3,Intermediate tier,Non-Tibetan method precedents are substantial; direct Tibetan evaluation is not represented

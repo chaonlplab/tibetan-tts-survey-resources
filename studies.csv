@@ -1,0 +1,13 @@
+﻿year,technical_route,task_dialect,frontend_report,evaluation,main_contribution,evidence_level,verification_status,reference
+2011,HMM / SPSS,Lhasa,syllable/context/prosody source-reported,subjective + basic objective,early HMM route,Source-reported direct evidence,abstract- or metadata-level evidence only,ref23
+2013,speaker-adaptive SPSS,Mandarin-Tibetan,NR,source-reported listening comparison,speaker-adaptive training,Direct Tibetan empirical,source-reported,ref29
+2010-2014,prosodic / front-end / unit-based,Tibetan,prosody, duration/pitch or unit labels,source-reported; non-comparable,early front-end/prosody work,Source-reported direct evidence,abstract- or metadata-level evidence only,"ref12; ref35; ref38"
+2019,neural acoustic modelling,Tibetan,NR,source-reported; details not specified in the source,neural-network-based TTS,Source-reported direct evidence,source metadata varies across records,ref32
+2019,seq2seq + WaveNet vocoder,Lhasa,text input; details NR,source-reported MOS/listening,early end-to-end system,Direct Tibetan empirical,source-reported,ref10
+2021,end-to-end multi-dialect,multi-dialect,dialect-related conditioning source-reported,subjective + objective,multi-dialect shared modelling,Direct Tibetan empirical,source-reported,ref8
+2022,end-to-end multi-speaker,Lhasa,NR,MOS + comparison,multi-speaker extension,Direct Tibetan empirical,source-reported,ref26
+2022,FastSpeech2,Tibetan,duration/alignment route; details NR,source-reported subjective/objective,non-autoregressive TTS,Source-reported direct evidence,source metadata varies across records,ref33
+2023,Transformer TTS,Lhasa,multilevel granular units,objective + listening,multi-granularity modelling,Direct Tibetan empirical,source-reported,ref16
+2024,VITS,Ü-Tsang,automatic annotation; details NR,subjective + objective,fully end-to-end single-stage,Source-reported direct evidence,bibliographic metadata varies across records,ref28
+2024,mixture-alignment FastSpeech2 + HiFi-GAN,Lhasa,Tibetan text + Wylie,MOS; alignment analysis; ANOVA,alignment + pretraining transfer,Direct Tibetan empirical,source-reported,ref9
+2025,prosodic-feature modelling,Tibetan,rhythm/prosodic features,source-reported subjective/objective,rhythm modelling,Source-reported direct evidence,abstract- or metadata-level evidence only,ref14
